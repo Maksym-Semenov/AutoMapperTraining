@@ -38,5 +38,5 @@ public class Project
 
     public int? MakerId { get; set; }
 
-    public int? BranchId { get; set; }
+    //public int? BranchId { get; set; }
 }

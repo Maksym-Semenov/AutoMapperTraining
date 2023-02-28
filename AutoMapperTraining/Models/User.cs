@@ -11,4 +11,7 @@ public class User
     public string? LastName { get; set; }
 
     public int? UserRole { get; set; }
+
+    //public virtual ICollection<Contact> Contacts { get; set;}
+    //public virtual ICollection<Project> Projects { get; set;}
 }
